@@ -1,9 +1,9 @@
 <?php
 require "src/YTDownloader.php"
-
+$badvid = $_GET['v'];
 $yt = new YTDownloader();
 
-$links = $yt->getDownloadLinks("ffxKSjUwKdU");
+$links = $yt->getDownloadLinks('$badvid');
 
 print_r($links);
 
