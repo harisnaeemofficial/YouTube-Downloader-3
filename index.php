@@ -7,3 +7,4 @@ $links = $yt->getDownloadLinks("ffxKSjUwKdU");
 
 print_r($links);
 
+?>
