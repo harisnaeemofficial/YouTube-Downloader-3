@@ -1,5 +1,5 @@
 <?php
-require "src/YTDownloader.php"
+require "src/YTDownloader.php";
 
 $yt = new YTDownloader();
 
