@@ -19,7 +19,7 @@
 	"ext-gd": "*",
     "ext-mbstring": "*",
     "ext-sqlite3": "*",
-    "ext-imagick": "*"
+    "ext-imagick": "*",
 	"ext-curl": "*"
 
 	},
